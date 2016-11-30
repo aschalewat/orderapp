@@ -9,6 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public final class Client {
 
+    // A new change
     public Client() {
     }
 
