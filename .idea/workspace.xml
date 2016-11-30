@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6ac87ee-b7f0-43bf-b8bf-866fe61ea8a1" name="Default" comment="">
+    <list default="true" id="a6ac87ee-b7f0-43bf-b8bf-866fe61ea8a1" name="Default" comment="OrderApp: Added some more changes2">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/Client.java" afterPath="$PROJECT_DIR$/src/client/Client.java" />
     </list>
     <ignored path="orderapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/client/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="242">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -362,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480542070669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="OrderApp: Added some more changes2">
+      <created>1480542157778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1480542157778</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -429,7 +435,8 @@
     <MESSAGE value="OrderApp: First commit" />
     <MESSAGE value="OrderApp: Added a comment in Client" />
     <MESSAGE value="OrderApp: Added some more changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="OrderApp: Added some more changes" />
+    <MESSAGE value="OrderApp: Added some more changes2" />
+    <option name="LAST_COMMIT_MESSAGE" value="OrderApp: Added some more changes2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -450,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/client/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="242">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding />
         </state>
       </provider>

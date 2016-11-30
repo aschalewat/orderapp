@@ -12,7 +12,7 @@ public final class Client {
     // A new change
     public Client() {
     }
-
+    // me
     public static void main(String args[]) throws Exception {
          ClassPathXmlApplicationContext context 
             = new ClassPathXmlApplicationContext(new String[] {"client/client-beans.xml"});
