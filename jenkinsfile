@@ -1,7 +1,11 @@
 node {
+
     def branch = env.BRANCH_NAME
     echo "the new branch ${branch}"
-    stage('DEV'){
+    stage ('Checkout'){
+        git url:'git@github.com:aschalewat/orderapp.git'
+    }
+   /* stage('DEV'){
         echo 'Hello World1'
     }
     stage('QA'){
@@ -9,5 +13,5 @@ node {
     }
     stage('PRODUCTION'){ 
         echo 'Product is ready'
-    }
+    }*/
 }
